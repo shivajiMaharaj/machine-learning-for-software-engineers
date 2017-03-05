@@ -1,3 +1,5 @@
+<p align="center">Following resources put together by <a href="https://github.com/ZuzooVn">ZuzooVn</a></p>
+
 # Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
