@@ -1,4 +1,4 @@
-<p align="center">Following references put together by <a href="https://github.com/ZuzooVn">ZuzooVn</a></p>
+<h2 align="center">Following references put together by <a href="https://github.com/ZuzooVn">ZuzooVn</a></h2>
 
 # Top-down learning path: Machine Learning for Software Engineers
 
